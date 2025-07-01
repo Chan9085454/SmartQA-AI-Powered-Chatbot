@@ -13,5 +13,4 @@ Project Structure
 ├── QA_system.py     # Handles user queries and retrieves best-matching answers
 ├── app.py           # Flask/FastAPI app to deploy the QA system
 ├── data/            # Folder containing raw or cleaned documents
-├── embeddings/      # Stores generated embeddings or FAISS index
-└── README.md        # Project documentation
+├── embeddings/      # Stores generated embeddings into vectors, FAISS index
